@@ -1,7 +1,7 @@
 # Analytics Portfolio
 
 
-This repository is a portfolio of data analytic projects that I have completed for self-learning, academics and hobby purposes. These projects are currently presented in the form of iPython Notebooks. This repository will continue to be updated with new projects showcasing different technologies that are used in the analytic and data science field. 
+This repository is a portfolio of data analytic projects that I have completed for self-learning, academics and hobby purposes.  These projects are currently presented in the form of iPython Notebooks.  This repository will continue to be updated with new projects showcasing different technologies that are used in the analytic and data science field. 
 
 *Note: Data used in the projects below is for demonstration purposes only.*
 
